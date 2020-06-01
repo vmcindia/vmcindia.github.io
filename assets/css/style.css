@@ -1050,10 +1050,7 @@ button.alt-menu-btn.float-left {
   margin-top: 30px; }
 
 #slider-item .owl-dots {
-  position: absolute;
-  bottom: 50px;
-  left: 0;
-  right: 0; }
+ }
   #slider-item .owl-dots .owl-dot.active {
     height: 45px;
     width: 3px;
