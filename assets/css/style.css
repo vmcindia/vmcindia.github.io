@@ -1543,20 +1543,6 @@ button.alt-menu-btn.float-left {
   opacity: 1;
   visibility: visible; }
 
-.owl-nav {
-  right: 0;
-  top: -90px;
-  position: absolute; }
-  .owl-nav .owl-prev, .owl-nav .owl-next {
-    float: left;
-    width: 60px;
-    height: 60px;
-    line-height: 60px;
-    text-align: center;
-    margin: 0 5px;
-    border-radius: 4px;
-    background-color: #f7f7f7; }
-
 .popular-three {
   background-color: #f7f7f7;
   padding: 100px 0px 100px; }
